@@ -16,17 +16,21 @@ Documentation for Torn City INFINITE DIMENSION Family Faction
 [View ID I](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View ID II](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View ID III](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[What is ID?](#what-is-id){: .btn .fs-5 .mb-4 .mb-md-0 }
+[What is ID?](#what-is-infinite-dimension){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## What is ID
+## What is INFINITE DIMENSION?
 
 ### About Us
 
 INFINITE DIMENSION is a 3 Faction Family comprising of over 250 active members.
-#### The Main Focus
-We Primarily Focus on Training and Chaining
+All ID Members are required to have good standing in the Torn Community, Scamming or Breaking Game Rules is Never Allowed and are dealt with very strictly.
+
+### Specializations
+ID is Primarily a Chaining + Training Specialization Faction
+
+
 
 
 ### Quick start: Use as a GitHub Pages remote theme
