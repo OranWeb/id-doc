@@ -24,8 +24,8 @@ Documentation for Torn City INFINITE DIMENSION Family Faction
 
 ### What is INFINITE DIMENSION?
 
-INFINITE DIMENSION is a 3 Faction Family comprising of over 250 active members.
-All ID Members are required to have good standing in the Torn Community, Scamming or Breaking Game Rules is Never Allowed and are dealt with very strictly.
+INFINITE DIMENSION is a 3 Faction Family comprising of over 250 active members.  
+All ID Members are required to have good standing in the Torn Community, Scamming or exploiting Game Mechanics is Never Allowed and are dealt with very strictly.
 <br>
 ### Date Founded
 ID was Founded on 1st April 2019.
@@ -33,13 +33,15 @@ ID was Founded on 1st April 2019.
 ID FAMILY is Primarily a Chaining + Training Specialization, with plans to Expand into Reviving in the Future.
 ### Mission Statement
 To Provide you with the Best Experience Possible in Your Torn Journey.
+### Faction Leadership
+ID Leadership is a Mix of Competent Leaders
 ..
-### Faction image
+## Faction image
 ![fac-image](https://factionimages.torn.com/56611a5e-521b-4edd-1778676.jpg)
-### Faction description
+## Faction description
 ![fac-description](http://i.oran.pw/images/RoQ9D.png )
 
-### Other Art Work
+## Other Art Work
 ![fac-description](https://i.imgur.com/EZlqcPp.jpg )
 
 
