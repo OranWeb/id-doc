@@ -33,11 +33,14 @@ ID was Founded on 1st April 2019.
 ID FAMILY is Primarily a Chaining + Training Specialization, with plans to Expand into Reviving in the Future.
 ### Mission Statement
 To Provide you with the Best Experience Possible in Your Torn Journey.
+..
+### Faction image
+![fac-image](https://factionimages.torn.com/56611a5e-521b-4edd-1778676.jpg)
+### Faction description
+![fac-description](http://i.oran.pw/images/RoQ9D.png )
 
+### Other Art Work
+![fac-description](https://i.imgur.com/EZlqcPp.jpg )
 
 
 ---
-
-## About the project
-
-ID Doc is &copy; 2020-{{ "now" | date: "%Y" }} by [ORAN]().
