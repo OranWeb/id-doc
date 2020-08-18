@@ -4,12 +4,9 @@
 <br><br>
 <p align="center">
     <a href=""><img src="https://factionimages.torn.com/56611a5e-521b-4edd-1778676.jpg" alt="fac img"></a>
-
     <h1 align="center">INFINITE DIMENSION FAMILY</h1>
     <p align="center">A Torn City Family Faction..</p>
     <p align="center"><strong><a href=" ">Join Us</a></strong></p>
-    
-
 </p>
 
 ## Purpose
