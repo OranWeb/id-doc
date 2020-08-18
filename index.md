@@ -34,7 +34,13 @@ ID FAMILY is Primarily a Chaining + Training Specialization, with plans to Expan
 ### Mission Statement
 To Provide you with the Best Experience Possible in Your Torn Journey.
 ### Faction Leadership
-ID Leadership is a Mix of Competent Leaders
+ID Leadership is a Mix of Competent Leaders, Who have been highly trained and will assist you in your Journey, To build up your character and make you strong  
+Leadership is Primarily Democratic, Members are heard and action is taken by Vote.
+## Faction Perks
+All ID Members have access to Premium Armory filled with Diamond Bladed Knives For Everyone and Armalites (for top chainers), Full Set of Combat Gear is Also Provided. Xanax is Provided for Chaining if you're unable to afford and other cheap drugs + Beer/Candy is also available for use.  
+Members get access to our Guides list filled with Huge amount informative Guides  
+Usual Perks are Toleration Maxed, Steadfast, Voracity/Criminality and Excursion( +9 Travel Items)  
+
 ..
 ## Faction image
 ![fac-image](https://factionimages.torn.com/56611a5e-521b-4edd-1778676.jpg)
