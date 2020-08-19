@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Kingsmen
+title: INFINITE DIMENSION
 parent: Factions
-nav_order: 3
+nav_order: 1
 ---
 # INFINITE DIMENSION
 {: .fs-9 }

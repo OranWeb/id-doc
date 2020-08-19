@@ -3,7 +3,7 @@ layout: default
 title: Factions
 nav_order: 3
 has_children: true
-permalink: /Factions/findex
+permalink: /Factions/index
 ---
 
 # Factions
