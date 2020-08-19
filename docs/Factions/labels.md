@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Labels
+title: Kingsmen
 parent: Factions
 nav_order: 3
 ---
