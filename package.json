@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
+  "name": "tfac",
   "version": "0.3.1",
   "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "repository": "pmarsceill/tfac",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/pmarsceill/tfac/issues",
   "devDependencies": {
     "@primer/css": "^15.1.0",
     "prettier": "^2.0.5",
