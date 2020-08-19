@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lists
-parent: UI Components
+title: INFINITE D
+parent: Factions
 nav_order: 5
 ---
 
