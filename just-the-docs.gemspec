@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.email         = ["oran@oran.pw"]
 
   spec.summary       = %q{A Faction Documentation Tool.}
-  spec.homepage      = "https://github.com/pmarsceill/tfac"
+  spec.homepage      = "https://github.com/pmarsceill/just-the-docs"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
-  spec.executables   << 'tfac'
+  spec.executables   << 'just-the-docs'
 
   spec.add_development_dependency "bundler", "~> 2.1.4"
   spec.add_runtime_dependency "jekyll", ">= 3.8.5"

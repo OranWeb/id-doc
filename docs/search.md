@@ -117,10 +117,10 @@ search_exclude: true
 
 If you use Just the Docs as a remote theme, you do not need the following steps.
 
-If you use the theme as a gem, you must initialize the search by running this `rake` command that comes with `tfac`:
+If you use the theme as a gem, you must initialize the search by running this `rake` command that comes with `just-the-docs`:
 
 ```bash
-$ bundle exec tfac rake search:init
+$ bundle exec just-the-docs rake search:init
 ```
 
 This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.

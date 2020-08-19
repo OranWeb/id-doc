@@ -1,9 +1,9 @@
 package.json
 package-lock.json
 _site
-assets/css/tfac-default.scss
-assets/css/tfac-light.scss
-assets/css/tfac-dark.scss
+assets/css/just-the-docs-default.scss
+assets/css/just-the-docs-light.scss
+assets/css/just-the-docs-dark.scss
 assets/js/vendor/lunr.min.js
 assets/js/search-data.json
-assets/js/tfac.js
+assets/js/just-the-docs.js
