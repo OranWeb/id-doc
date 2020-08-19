@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "ID-Documentation"
-  spec.version       = "0.1.1"
-  spec.authors       = ["ORAN"]
-  spec.email         = ["oran@oran.pw"]
+  spec.name          = "just-the-docs"
+  spec.version       = "0.3.1"
+  spec.authors       = ["Patrick Marsceill"]
+  spec.email         = ["patrick.marsceill@gmail.com"]
 
-  spec.summary       = %q{A Faction Documentation Tool.}
+  spec.summary       = %q{A modern, highly customizable, and responsive Jekyll theme for documention with built-in search.}
   spec.homepage      = "https://github.com/pmarsceill/just-the-docs"
   spec.license       = "MIT"
 
